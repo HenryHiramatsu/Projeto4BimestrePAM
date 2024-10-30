@@ -1,3 +1,10 @@
 # Projeto4BimestrePAM
-Eduardo Kenji Oka Choji e Henry Morikatsu Hiramatsu
-Projeto do 4° bimestre da matéria programação de aplicativos mobile.
+Componentes:Eduardo Kenji Oka Choji e Henry Morikatsu Hiramatsu
+
+
+Identificação do tema do aplicativo
+
+Descrição objetivoa e imparcial do conteúdo do aplicativo
+
+Sumário da Wiki
+##
