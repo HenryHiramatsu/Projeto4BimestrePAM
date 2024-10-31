@@ -11,5 +11,10 @@ Componentes:Eduardo Kenji Oka Choji e Henry Morikatsu Hiramatsu
 - Nosso aplicativo contém diversas páginas com uma navegação intuitiva, na qual cada página conta um pouco sobre a cultura japonesa através de imagens e breves textos para explicar conteúdo delas.
 
 ## Sumário da Wiki
-
+- [Wiki Chishiki-michi](https://github.com/HenryHiramatsu/Projeto4BimestrePAM/wiki/Wiki-Chishiki‐michi)
+- [Protótipo e suas telas](https://github.com/HenryHiramatsu/Projeto4BimestrePAM/wiki/Wiki-Chishiki‐michi#protótipo-de-alto-nível)
+- [Diagrama de classes](https://github.com/HenryHiramatsu/Projeto4BimestrePAM/wiki/Wiki-Chishiki‐michi#diagrama-de-classes)
 ##
+
+
+
